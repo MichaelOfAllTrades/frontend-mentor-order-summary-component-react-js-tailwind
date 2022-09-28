@@ -1,23 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import classnames from 'classnames';
+import OrderSummary from './components/OrderSummary';
+
+import PatternBackgroundDesktop from './images/pattern-background-desktop.svg';
+import PatternBackgroundMobile from './images/pattern-background-mobile.svg';
 
 function App() {
+  let width = window.innerWidth;
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={classnames(`App flex h-screen w-screen ${(width > 800) ? "bg-bg-desktop" : "bg-bg-desktop"}`)}>
+      <OrderSummary />
     </div>
   );
 }
