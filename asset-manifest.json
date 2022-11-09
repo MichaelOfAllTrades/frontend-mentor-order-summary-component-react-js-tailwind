@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-order-summary-component-react-js-tailwind/static/css/main.36ae491c.css",
+    "main.js": "/frontend-mentor-order-summary-component-react-js-tailwind/static/js/main.3d0a88f6.js",
+    "static/js/787.9e0b1b71.chunk.js": "/frontend-mentor-order-summary-component-react-js-tailwind/static/js/787.9e0b1b71.chunk.js",
+    "static/media/illustration-hero.svg": "/frontend-mentor-order-summary-component-react-js-tailwind/static/media/illustration-hero.7303258392501e7adc159201ab028e44.svg",
+    "static/media/logo.svg": "/frontend-mentor-order-summary-component-react-js-tailwind/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/frontend-mentor-order-summary-component-react-js-tailwind/index.html",
+    "static/media/icon-music.svg": "/frontend-mentor-order-summary-component-react-js-tailwind/static/media/icon-music.f20c7787426b3847880ef13817068c16.svg",
+    "static/media/pattern-background-mobile.svg": "/frontend-mentor-order-summary-component-react-js-tailwind/static/media/pattern-background-mobile.c8d50fcb68aa27a01e4d7bdb4daa85cd.svg",
+    "static/media/pattern-background-desktop.svg": "/frontend-mentor-order-summary-component-react-js-tailwind/static/media/pattern-background-desktop.5a0ab6898fc956557d0047f46ed7df62.svg",
+    "main.36ae491c.css.map": "/frontend-mentor-order-summary-component-react-js-tailwind/static/css/main.36ae491c.css.map",
+    "main.3d0a88f6.js.map": "/frontend-mentor-order-summary-component-react-js-tailwind/static/js/main.3d0a88f6.js.map",
+    "787.9e0b1b71.chunk.js.map": "/frontend-mentor-order-summary-component-react-js-tailwind/static/js/787.9e0b1b71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ae491c.css",
+    "static/js/main.3d0a88f6.js"
+  ]
+}
