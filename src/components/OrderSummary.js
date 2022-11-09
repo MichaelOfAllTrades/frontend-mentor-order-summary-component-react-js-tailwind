@@ -11,7 +11,7 @@ export default function OrderSummary() {
       <div className={classnames(``)}>
         <img className={classnames(``)} src={IllustrationHero} alt="illustration hero" />
       </div>
-      <div className={classnames(`p-[28px] bg-white h-full flex flex-col`)}>
+      <div className={classnames(`p-[20px] bg-white h-full flex flex-col`)}>
         <h1 className={classnames(`text-[22px] mb-[20px] font-order-summary`)}>Order Summary</h1>
         <p className={classnames(`w-[90%] mx-auto mb-[20px] text-[#7280a7]`)}>You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!</p>
 
